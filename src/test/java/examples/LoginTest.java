@@ -8,7 +8,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class LoginTest {
-
+//Script para validar Login
     @Test
     public void loginExitoso() {
 
