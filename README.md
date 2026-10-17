@@ -17,4 +17,4 @@ Proyecto base para prácticas de automatización utilizando:
 ## Ejecutar pruebas
 
 ```bash
-mvn clean test
+- mvn clean test
