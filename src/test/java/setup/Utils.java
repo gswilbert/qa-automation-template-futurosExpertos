@@ -84,6 +84,7 @@ public class Utils {
     
     public static String horaMinSeg(){
         Date fecha = new Date();
+        //String hora = ""+fecha.getHours()+":"+fecha.getMinutes()+"."+fecha.getSeconds();
         String hora = ""+fecha.getHours()+":"+fecha.getMinutes()+"."+fecha.getSeconds();
         return hora;
     }
